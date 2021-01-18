@@ -6,6 +6,12 @@ ROS
 
 # 実演動画  
 https://www.youtube.com/watch?v=WEmmnT3hbbA 
+
+# 環境    
+・Raspberry Pi 4 Model B     
+・Ubuntu 20.04   
+・ROS Noetic 
+
 # インストール・実行方法  
     $ cd ~/catkin_ws/src  
     $ git clone https://github.com/SomaMitsuike/mypkg.git   
