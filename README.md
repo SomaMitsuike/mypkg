@@ -4,6 +4,8 @@ ROS
 # 内容  
 ロボットシステム学の講義で作成したコードを書き換えてcount_upで出力される値を3倍にして出力するthird.pyを作成した 
 
+# 実演動画  
+https://www.youtube.com/watch?v=WEmmnT3hbbA 
 # インストール・実行方法  
     $ cd ~/catkin_ws/src  
     $ git clone https://github.com/SomaMitsuike/mypkg.git   
